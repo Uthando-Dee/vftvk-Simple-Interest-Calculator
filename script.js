@@ -1,6 +1,6 @@
 function compute()
 {
-
+     var p = document.getElementById("p").value;
      var principal = document.getElementById("principal").value;
      var rate = document.getElementById("rate").value;
      var years = document.getElementById("years").value;
